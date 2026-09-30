@@ -12,7 +12,7 @@ export const profile = {
     'Architect with 15+ years of experience in developing and maintaining customer-facing applications in the Financial, Automotive, Retail, and Manufacturing sectors. Expert hands-on developer with excellent communication skills and a proven track record in driving teams and building stable applications. Experienced in Agile/Scrum methodologies and actively involved in all phases of SDLC like analysis, design, development, enhancements, and support.',
   highlights: [
     { value: '15+', label: 'Years of experience' },
-    { value: '15+', label: 'Microservices led at Ford' },
+    { value: '15+', label: 'Microservices' },
     { value: '1 wk → 5 min', label: 'Report generation time' },
     { value: '38%', label: 'Customer queries automated' },
   ],
